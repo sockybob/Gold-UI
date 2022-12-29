@@ -169,9 +169,9 @@
 			"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
 			"image": "rounded_border_tr50"
 		},
-		"OverviewScreen/TradesOverviewTab/OffersTable": {
-			"image": "TradesOverviewTab_OffersTable"
-		},
+		//"OverviewScreen/TradesOverviewTab/OffersTable": {
+		//	"image": "TradesOverviewTab_OffersTable"
+		//},
 		"OverviewScreen/UnitOverviewTab/UnitSupplyTable": {
 			"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
 			"image": "border_tr50"
@@ -179,16 +179,16 @@
 		
 		//"PlayerReadyScreen/Background": {},
 		
-		"TechPickerScreen/Background": {
-			"tint": {"r": 0.1, "g": 0.1, "b": 0.1, "a": 1}
-		},
-		"TechPickerScreen/BottomTable": {
-			"tint": {"r": 0.1, "g": 0.1, "b": 0.1, "a": 1}
-		},
-		"TechPickerScreen/TechButton": {
-			"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
-			"image": "TechButton"
-		},
+		//"TechPickerScreen/Background": {
+		//	"tint": {"r": 0.1, "g": 0.1, "b": 0.1, "a": 1}
+		//},
+		//"TechPickerScreen/BottomTable": {
+		//	"tint": {"r": 0.1, "g": 0.1, "b": 0.1, "a": 1}
+		//},
+		//"TechPickerScreen/TechButton": {
+		//	"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+		//	"image": "TechButton"
+		//},
 		
 		"VictoryScreen/CivGroup": {
 			"image": "CityButtonBG"
@@ -222,13 +222,11 @@
 		"WorldScreen/CityButton/AirUnitTable": {
 			"image": "AirUnitTable"
 		},
-		"WorldScreen/CityButton/IconTable": {
-			"image": "CityButtonBG"
-		},
-		"WorldScreen/CityButton/InfluenceBar": {
-			"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
-			"image": "InfluenceBar"
-		},
+		//"WorldScreen/CityButton/IconTable": {},
+		//"WorldScreen/CityButton/InfluenceBar": {
+		//	"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+		//	"image": "InfluenceBar"
+		//},
 		"WorldScreen/Minimap/Background": {
 			"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
 			"image": "MinimapBackground"
